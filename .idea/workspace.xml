@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0576143e-ba11-4ddf-a289-8b8acfb0241a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/baitap8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/demo6.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2dFRVGEy6i4eoXE7jZx1X1UBZWg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.baitap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.baitap1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.baitap2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.baitap3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.baitap4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.baitap5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.baitap6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.baitap7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.baitap8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo5.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ADMIN/IdeaProjects/MD2-JAVA/session02/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.baitap2">
+    <configuration name="baitap2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitap2" />
+      <module name="session02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="baitap5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitap5" />
+      <module name="session02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="baitap6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitap6" />
+      <module name="session02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="baitap7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitap7" />
+      <module name="session02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="baitap8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="baitap8" />
+      <module name="session02" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.baitap2" />
+        <item itemvalue="Application.baitap8" />
+        <item itemvalue="Application.baitap7" />
+        <item itemvalue="Application.baitap6" />
+        <item itemvalue="Application.baitap5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-ebaef533" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0576143e-ba11-4ddf-a289-8b8acfb0241a" name="Changes" comment="" />
+      <created>1709601866427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709601866427</updated>
+      <workItem from="1709601867516" duration="24973000" />
+      <workItem from="1709648012094" duration="4027000" />
+      <workItem from="1709655622599" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
